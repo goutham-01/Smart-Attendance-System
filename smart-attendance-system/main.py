@@ -58,7 +58,7 @@ class App:
 
         label = test(
                 image=self.most_recent_capture_arr,
-                model_dir='C:/Users/vardh/OneDrive/Desktop/smart-attendance-system/Silent-Face-Anti-Spoofing/resources/anti_spoof_models',
+                model_dir='C:/Users/goutham/OneDrive/Desktop/smart-attendance-system/Silent-Face-Anti-Spoofing/resources/anti_spoof_models',
                 device_id=0
                 )
 
